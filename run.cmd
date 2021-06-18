@@ -1,2 +1,2 @@
 @echo off
-py -3 -u .\main.py
+py -3 -m poetry run
